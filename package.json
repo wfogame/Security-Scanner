@@ -1,0 +1,19 @@
+{
+  "name": "ai-scanner",
+  "version": "1.0.0",
+  "description": "scans code for bad stuff",
+  "keywords": [
+    "scan"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "wfogame/Security-Scanner on github"
+  },
+  "license": "SEE LICENSE IN License.md",
+  "author": "wfogame",
+  "type": "commonjs",
+  "main": "scan.js",
+  "scripts": {
+    "test": "node scan.js"
+  }
+}
